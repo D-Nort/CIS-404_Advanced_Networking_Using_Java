@@ -1,2 +1,3 @@
-# CIS-404_Advanced_Networking_Using_Java
+# CIS-402A_Intermediate_Java_Programming
 2020- Summer Semester Term A, Bellevue University
+
